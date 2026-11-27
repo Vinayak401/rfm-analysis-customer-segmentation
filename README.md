@@ -41,6 +41,10 @@ Customers were scored and segmented based on their RFM metrics.
 ## Power BI Dashboard:-
 
 Developed interactive dashboards to explore customer segments, purchasing patterns, and customer performance.
+### Dashboard 1 Preview
+![Dashboard 1](Dashboard-1.png)
+### Dashboard 2 Preview
+![Dashboard 2](Dashboard-2.png)
 
 ## Business Insights & Recommendations:-
 
@@ -55,5 +59,5 @@ SQL: Data preparation and analytical queries.
 PowerBI: Interactive customer analytics dashboard.
 Dashboard_Screenshots: Dashboard previews.
 
-Author
+## Author
 Vinayak Mayur
